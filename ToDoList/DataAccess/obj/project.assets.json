@@ -3115,11 +3115,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Deniz\\source\\repos\\ToDoList\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Deniz\\Documents\\GitHub\\To-Do-List-Application\\ToDoList\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\Deniz\\source\\repos\\ToDoList\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Users\\Deniz\\Documents\\GitHub\\To-Do-List-Application\\ToDoList\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\Deniz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Deniz\\source\\repos\\ToDoList\\DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\Deniz\\Documents\\GitHub\\To-Do-List-Application\\ToDoList\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3138,11 +3138,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Deniz\\source\\repos\\ToDoList\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\Deniz\\source\\repos\\ToDoList\\Core\\Core.csproj"
+            "C:\\Users\\Deniz\\Documents\\GitHub\\To-Do-List-Application\\ToDoList\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\Deniz\\Documents\\GitHub\\To-Do-List-Application\\ToDoList\\Core\\Core.csproj"
             },
-            "C:\\Users\\Deniz\\source\\repos\\ToDoList\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Deniz\\source\\repos\\ToDoList\\Entities\\Entities.csproj"
+            "C:\\Users\\Deniz\\Documents\\GitHub\\To-Do-List-Application\\ToDoList\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Deniz\\Documents\\GitHub\\To-Do-List-Application\\ToDoList\\Entities\\Entities.csproj"
             }
           }
         }

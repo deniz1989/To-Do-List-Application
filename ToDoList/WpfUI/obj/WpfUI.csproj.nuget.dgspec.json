@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Deniz\\source\\repos\\ToDoList\\WpfUI\\WpfUI.csproj": {}
+    "C:\\Users\\Deniz\\Documents\\GitHub\\To-Do-List-Application\\ToDoList\\WpfUI\\WpfUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Deniz\\source\\repos\\ToDoList\\WpfUI\\WpfUI.csproj": {
+    "C:\\Users\\Deniz\\Documents\\GitHub\\To-Do-List-Application\\ToDoList\\WpfUI\\WpfUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Deniz\\source\\repos\\ToDoList\\WpfUI\\WpfUI.csproj",
+        "projectUniqueName": "C:\\Users\\Deniz\\Documents\\GitHub\\To-Do-List-Application\\ToDoList\\WpfUI\\WpfUI.csproj",
         "projectName": "WpfUI",
-        "projectPath": "C:\\Users\\Deniz\\source\\repos\\ToDoList\\WpfUI\\WpfUI.csproj",
+        "projectPath": "C:\\Users\\Deniz\\Documents\\GitHub\\To-Do-List-Application\\ToDoList\\WpfUI\\WpfUI.csproj",
         "packagesPath": "C:\\Users\\Deniz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Deniz\\source\\repos\\ToDoList\\WpfUI\\obj\\",
+        "outputPath": "C:\\Users\\Deniz\\Documents\\GitHub\\To-Do-List-Application\\ToDoList\\WpfUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using DataAccess.Concrete.EntityFramework.Context;
+using Entities.Concrete;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
@@ -41,9 +42,9 @@ namespace WebAPI.Controllers
 
         private static void CreateMyDataBaseIfNotExists()
         {
-            ToDoListAppContext toDoListAppContext = new ToDoListAppContext();
+            ToDoListAppContext toDoListAppDB = new ToDoListAppContext();
 
-            toDoListAppContext.Database.EnsureCreated();
+            toDoListAppDB.Database.EnsureCreated();
         }
     }
 }

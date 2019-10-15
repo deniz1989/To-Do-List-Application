@@ -3221,11 +3221,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Deniz\\source\\repos\\ToDoList\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\Deniz\\Documents\\GitHub\\To-Do-List-Application\\ToDoList\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\Deniz\\source\\repos\\ToDoList\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\Deniz\\Documents\\GitHub\\To-Do-List-Application\\ToDoList\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\Deniz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Deniz\\source\\repos\\ToDoList\\Core\\obj\\",
+      "outputPath": "C:\\Users\\Deniz\\Documents\\GitHub\\To-Do-List-Application\\ToDoList\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
